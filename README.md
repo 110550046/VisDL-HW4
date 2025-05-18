@@ -17,8 +17,6 @@ I implement a custom model based on **PromptIR**, a unified restoration framewor
 - **PromptBlock:** Learnable prompt + CA (Channel Attention) + SA (Spatial Attention)  
 - **Loss:** MSE Loss  
 - **Batch Size:** 8  
-- **Epochs:** 100  
-- **Image Size:** 256 × 256  
 - **Optimizer:** Adam (lr = 1e-4)  
 - **LR Scheduler:** ReduceLROnPlateau (patience=5, factor=0.5)
 
