@@ -27,11 +27,8 @@ run the following instruction at terminal with pip
 ```bash
 pip install torch torchvision Pillow numpy tqdm scikit-image
 ```
-### Train
-Just run the PIR_train.py
-
-### Predict
-Just run the PIR_pred.py
+### Train & Predict
+Just run the PIR_train.py & PIR_pred.py, make sure the hw4_realse_dataset is at the same directory.
 
 ## Performance Snapshot
 ![image](https://github.com/user-attachments/assets/b84105c5-c931-480b-adb8-2c7ac2b08058)
