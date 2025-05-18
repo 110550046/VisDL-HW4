@@ -14,7 +14,7 @@ I implement a custom model based on **PromptIR**, a unified restoration framewor
 
 - **Model:** PromptIR with PromptBlock + Attention Modules  
 - **Backbone:** Shallow CNN with 16 stacked PromptBlocks  
-- **PromptBlock:** Learnable prompt + CA (Channel Attention) + SA (Spatial Attention)  
+- **PromptBlock:** Learnable prompt + Channel Attention + Spatial Attention  
 - **Loss:** MSE Loss  
 - **Batch Size:** 8  
 - **Optimizer:** Adam (lr = 1e-4)  
