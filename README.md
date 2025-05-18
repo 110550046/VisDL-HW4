@@ -8,8 +8,7 @@ Name: 吳孟謙
 This is the implementation for Homework 4 of NYCU Computer Vision (Spring 2025).  
 The task is **Image Restoration**, which involves recovering clean images from degraded inputs (Rain and Snow types).  
 
-I implement a custom model based on **PromptIR**, a unified restoration framework utilizing learnable prompts to represent degradation types.  
-my version integrates channel & spatial attention mechanisms to enhance feature discrimination.
+I implement a custom model based on **PromptIR**, a unified restoration framework utilizing learnable prompts to represent degradation types. my version integrates channel & spatial attention mechanisms to enhance feature discrimination.
 
 ### Methods & Hyperparameters
 
