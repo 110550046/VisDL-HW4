@@ -23,6 +23,7 @@ I implement a custom model based on **PromptIR**, a unified restoration framewor
 ## How to install & run  
 
 ### dependencies  
+run the following instruction at terminal with pip
 ```bash
 pip install torch torchvision Pillow numpy tqdm scikit-image
 ```
